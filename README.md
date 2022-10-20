@@ -9,7 +9,7 @@ Utilisation :
 ---
 
 Exécuter le script `script.py` qui vous guidera lors de votre installation
-avec plusieurs choix ( Apache, ssh, hostname). Ce script vous permettra
+avec plusieurs choix (Apache, ssh, hostname). Ce script vous permettra
 l'installation des ces outils avec plus de facilites et plus rapidemment.
 
 
