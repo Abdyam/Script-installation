@@ -12,4 +12,13 @@ Exécuter le script `script.py` qui vous guidera lors de votre installation
 avec plusieurs choix (Apache, ssh, hostname). Ce script vous permettra
 l'installation des ces outils avec plus de facilites et plus rapidemment.
 
+Option du script :
+---
 
+1- Installez un server Web
+
+2- Installez un server SSH
+
+3- Changez le hostname
+
+0- Quittez  

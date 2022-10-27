@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+# Auteur : Abdallah YAMANI
+# Derniere modification : 28/10/2022
+# Script : script.py
+# Version : 1.2
+# Dercription : Script installation
+
+
 import sys
 import os
 
